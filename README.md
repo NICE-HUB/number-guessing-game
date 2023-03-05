@@ -1,0 +1,2 @@
+# number-guessing-game
+In this game, the user must predict the right number as the computer randomly chooses one of two numbers. The user will notice "too low" if the guessed number is less than the randomly chosen number. The user will notice "too high" if the guesses exceed the number that was chosen at random. "You guessed it right!!" will be shown in the output when the user correctly predicts the number.
